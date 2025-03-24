@@ -5,7 +5,7 @@ import pandas as pd
 from typing import Optional, Tuple
 import openai
 
-openai.api_key = "sk-proj-nwuzBiBx9vE1RCeKIQniT3BlbkFJsVJCdr5aSQiPSOJmNnTU"  # 设置你的OpenAI API密钥
+openai.api_key = "Your OpenAI API"  # 设置你的OpenAI API密钥
 # GPT数据生成程序
 class IEEE33_ENV:
     def __init__(self):
